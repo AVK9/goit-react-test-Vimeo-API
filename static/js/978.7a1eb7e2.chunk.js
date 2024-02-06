@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react=self.webpackChunkgoit_react||[]).push([[978],{6978:function(e,s,c){c.r(s);var i=c(212),n=c(4803),r=c(2791),t=c(7689),a=c(184);s.default=function(){return(0,a.jsxs)("div",{children:["VimeoSlider",(0,a.jsx)(r.Suspense,{fallback:(0,a.jsx)(i.aN,{}),children:(0,a.jsx)(n.Z,{})}),(0,a.jsx)(t.j3,{})]})}}}]);
+//# sourceMappingURL=978.7a1eb7e2.chunk.js.map

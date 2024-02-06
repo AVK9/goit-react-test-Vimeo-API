@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/goit-react-test-Vimeo-API/static/css/main.cd2e038f.css",
-    "main.js": "/goit-react-test-Vimeo-API/static/js/main.31aad381.js",
+    "main.js": "/goit-react-test-Vimeo-API/static/js/main.e4cda7a0.js",
     "static/js/907.a8fcd75d.chunk.js": "/goit-react-test-Vimeo-API/static/js/907.a8fcd75d.chunk.js",
     "static/js/134.30ed3f9a.chunk.js": "/goit-react-test-Vimeo-API/static/js/134.30ed3f9a.chunk.js",
     "static/css/705.369500bf.chunk.css": "/goit-react-test-Vimeo-API/static/css/705.369500bf.chunk.css",
     "static/js/705.d4dae395.chunk.js": "/goit-react-test-Vimeo-API/static/js/705.d4dae395.chunk.js",
+    "static/js/978.7a1eb7e2.chunk.js": "/goit-react-test-Vimeo-API/static/js/978.7a1eb7e2.chunk.js",
     "index.html": "/goit-react-test-Vimeo-API/index.html",
     "main.cd2e038f.css.map": "/goit-react-test-Vimeo-API/static/css/main.cd2e038f.css.map",
-    "main.31aad381.js.map": "/goit-react-test-Vimeo-API/static/js/main.31aad381.js.map",
+    "main.e4cda7a0.js.map": "/goit-react-test-Vimeo-API/static/js/main.e4cda7a0.js.map",
     "907.a8fcd75d.chunk.js.map": "/goit-react-test-Vimeo-API/static/js/907.a8fcd75d.chunk.js.map",
     "134.30ed3f9a.chunk.js.map": "/goit-react-test-Vimeo-API/static/js/134.30ed3f9a.chunk.js.map",
     "705.369500bf.chunk.css.map": "/goit-react-test-Vimeo-API/static/css/705.369500bf.chunk.css.map",
-    "705.d4dae395.chunk.js.map": "/goit-react-test-Vimeo-API/static/js/705.d4dae395.chunk.js.map"
+    "705.d4dae395.chunk.js.map": "/goit-react-test-Vimeo-API/static/js/705.d4dae395.chunk.js.map",
+    "978.7a1eb7e2.chunk.js.map": "/goit-react-test-Vimeo-API/static/js/978.7a1eb7e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.31aad381.js"
+    "static/js/main.e4cda7a0.js"
   ]
 }
