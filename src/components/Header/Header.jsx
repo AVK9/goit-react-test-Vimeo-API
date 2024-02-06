@@ -35,6 +35,9 @@ export const Header = () => {
               <NavItem>
                 <NavPage to="/movies">Movies</NavPage>
               </NavItem>
+              <NavItem>
+                <NavPage to="/vimeo">Vimeo Slider</NavPage>
+              </NavItem>
             </Navigations>
           </HeaderWrapper>
         </Container>

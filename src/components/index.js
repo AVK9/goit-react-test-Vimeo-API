@@ -8,3 +8,4 @@ export * from 'components/Trendings/Trendings';
 export * from 'components/Reviews/Reviews';
 export * from 'components/Cast/Cast'
 export * from 'components/SearchForm/SearchForm'
+export * from 'components/Slider/Slider'
