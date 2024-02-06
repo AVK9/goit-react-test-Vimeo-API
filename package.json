@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-05-movies",
+  "name": "goit-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AVK9.github.io/goit-react-hw-05-movies/",
+  "homepage": "https://AVK9.github.io/goit-react-test-Vimeo-API",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
